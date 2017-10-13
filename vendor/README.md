@@ -210,7 +210,7 @@ This is a list of grammars that Linguist selects to provide syntax highlighting 
 - **Markdown:** [atom/language-gfm](https://github.com/atom/language-gfm)
 - **Marko:** [marko-js/marko-tmbundle](https://github.com/marko-js/marko-tmbundle)
 - **Mask:** [tenbits/sublime-mask](https://github.com/tenbits/sublime-mask)
-- **Mathematica:** [shadanan/mathematica-tmbundle](https://github.com/shadanan/mathematica-tmbundle)
+- **Wolfram Language:** [shadanan/mathematica-tmbundle](https://github.com/shadanan/mathematica-tmbundle)
 - **Matlab:** [textmate/matlab.tmbundle](https://github.com/textmate/matlab.tmbundle)
 - **Maven POM:** [textmate/maven.tmbundle](https://github.com/textmate/maven.tmbundle)
 - **Max:** [textmate/json.tmbundle](https://github.com/textmate/json.tmbundle)

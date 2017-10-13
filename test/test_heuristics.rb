@@ -173,7 +173,7 @@ class TestHeuristcs < Minitest::Test
       "Mercury" => all_fixtures("Mercury", "*.m"),
       "MUF" => all_fixtures("MUF", "*.m"),
       "M" => all_fixtures("M", "MDB.m"),
-      "Mathematica" => all_fixtures("Mathematica", "*.m") - all_fixtures("Mathematica", "Problem12.m"),
+      "WolframLanguage" => all_fixtures("WolframLanguage", "*.m") - all_fixtures("WolframLanguage", "Problem12.m"),
       "Matlab" => all_fixtures("Matlab", "create_ieee_paper_plots.m"),
       "Limbo" => all_fixtures("Limbo", "*.m"),
       nil => ["Objective-C/cocoa_monitor.m"]
